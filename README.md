@@ -5,7 +5,7 @@
 - 🏫 爱折腾，半路转入计算机
 - ⭐️ 渴望当技术宅，用技术改变生活
 - 🏀 爱好者、🏊  爱好者
-- 💦 OW死忠粉，希望微软拯救暴雪，OW2能活下来
+- 💦 OW死忠粉，希望微软拯救暴雪，OW归来！
 #### Tech Stack
 - Language: ![](https://img.shields.io/badge/-C%2B%2B-blue) 
 ![](https://img.shields.io/badge/-Python-blue)
