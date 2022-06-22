@@ -2,16 +2,17 @@
 ---
 #### Hi! I'm Ryan
 - 🎓 土木工程学士（已毕业），计算机技术硕士（努力毕业中...）
-- 🏫 爱折腾，半路转入计算机
-- ⭐️ 渴望当技术宅，用技术改变生活
+- 🏫 喜欢折腾，自学跨专业转入计算机
+- ⭐️ 渴望当技术宅，用技术改变生活，喜欢一切有新鲜感的东西
 - 🏀 爱好者、🏊  爱好者
-- 💦 OW死忠粉，希望微软拯救暴雪，OW归来！
+- 💦 独立游戏玩家，放松型竞技网游玩家
 #### Tech Stack
 - Language: ![](https://img.shields.io/badge/-C%2B%2B-blue) 
 ![](https://img.shields.io/badge/-Python-blue)
 - DataBase: ![](https://img.shields.io/badge/-MySQL-red) 
 ![](https://img.shields.io/badge/-Redis-red)
 - Environment: ![](https://img.shields.io/badge/-Linux-green)
+![](https://img.shields.io/badge/-MacOS-green)
 - Tool: ![](https://img.shields.io/badge/-Git-yellowgreen)
 ![](https://img.shields.io/badge/-CMake-yellowgreen)
 ![](https://img.shields.io/badge/-Markdown-yellowgreen)
