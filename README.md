@@ -7,10 +7,13 @@
 - 🏀 爱好者、🏊  爱好者
 - 💦 独立游戏玩家，放松型竞技网游玩家
 #### Tech Stack
-- Language: ![](https://img.shields.io/badge/-C%2B%2B-blue) 
+- Language: ![](https://img.shields.io/badge/-C%2B%2B-blue)
 ![](https://img.shields.io/badge/-Python-blue)
-- DataBase: ![](https://img.shields.io/badge/-MySQL-red) 
+![](https://img.shields.io/badge/-TypeScript-blue)
+![](https://img.shields.io/badge/-Node.js-blue)
+- DataBase: ![](https://img.shields.io/badge/-MySQL-red)
 ![](https://img.shields.io/badge/-Redis-red)
+![](https://img.shields.io/badge/-SQLite-red)
 - Environment: ![](https://img.shields.io/badge/-Linux-green)
 ![](https://img.shields.io/badge/-MacOS-green)
 - Tool: ![](https://img.shields.io/badge/-Git-yellowgreen)
@@ -19,6 +22,9 @@
 - Software: ![](https://img.shields.io/badge/-VS%20Code-ff69b4)
 ![](https://img.shields.io/badge/-Visual%20Studio-ff69b4)
 ![](https://img.shields.io/badge/-PyCharm-ff69b4)
+- AI Tool: ![](https://img.shields.io/badge/-Claude%20Code-orange)
+![](https://img.shields.io/badge/-Cursor-orange)
+![](https://img.shields.io/badge/-Codex-orange)
 
 <!--
 **RyanWangllng/RyanWangllng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
